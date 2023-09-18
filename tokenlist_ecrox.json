@@ -1,0 +1,25 @@
+{
+  "name": "Ecrox Mainnet",
+  "timestamp": "2022-11-21T14:04:21.015Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://raw.githubusercontent.com/ecroxchain/TokenBridgeList/main/ecrox_logo.png",
+  "keywords": [
+    "ecrox",
+    "wecrox"
+  ],
+  "tokens": [
+    {
+      "name": "Wrapped ECROX",
+      "address": "0x4C89dC09A6170e0EC41ed1d2fE1D17D9BEeeb3Ca",
+      "symbol": "WECROX",
+      "decimals": 18,
+      "chainId": 988207,
+      "logoURI": "https://raw.githubusercontent.com/ecroxchain/TokenBridgeList/main/ecrox_logo.png"
+    }
+  ]
+}
