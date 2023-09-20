@@ -1,0 +1,24 @@
+{
+  "name": "Polygon Mainnet",
+  "timestamp": "2022-11-21T14:04:21.015Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://raw.githubusercontent.com/ecroxchain/TokenBridgeList/main/matic.png",
+  "keywords": [
+    "matic"
+  ],
+  "tokens": [
+    // {
+    //   "name": "Wrapped BNB",
+    //   "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+    //   "symbol": "WBNB",
+    //   "decimals": 18,
+    //   "chainId": 56,
+    //   "logoURI": "https://raw.githubusercontent.com/ecroxchain/TokenBridgeList/main/matic.png"
+    // }
+  ]
+}
