@@ -19,6 +19,14 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI": "https://bscscan.com/token/images/bnbchain2_32.png"
+    },
+    {
+      "name": "Token USDC",
+      "address": "0x8965349fb649A33a30cbFDa057D8eC2C48AbE2A2",
+      "symbol": "anyUSDC",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://bscscan.com/token/images/usdcgno_32.png"
     }
   ]
 }
