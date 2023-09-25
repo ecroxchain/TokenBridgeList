@@ -27,6 +27,14 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI": "https://bscscan.com/token/images/usdcgno_32.png"
+    },
+    {
+      "name": "Binance-Peg BSC-USD",
+      "address": "0x55d398326f99059fF775485246999027B3197955",
+      "symbol": "BSC-USD",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://bscscan.com/token/images/usdcgno_32.png"
     }
   ]
 }
