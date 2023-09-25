@@ -12,13 +12,13 @@
     "matic"
   ],
   "tokens": [
-    // {
-    //   "name": "Wrapped BNB",
-    //   "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
-    //   "symbol": "WBNB",
-    //   "decimals": 18,
-    //   "chainId": 56,
-    //   "logoURI": "https://raw.githubusercontent.com/ecroxchain/TokenBridgeList/main/matic.png"
-    // }
+    {
+      "name": "Tether USD",
+      "address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+      "symbol": "USDT",
+      "decimals": 6,
+      "chainId": 137,
+      "logoURI": "https://polygonscan.com/token/images/tether_32.png"
+    }
   ]
 }
