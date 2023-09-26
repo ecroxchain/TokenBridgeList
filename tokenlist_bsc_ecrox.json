@@ -21,20 +21,20 @@
       "logoURI": "https://bscscan.com/token/images/bnbchain2_32.png"
     },
     {
-      "name": "Token USDC",
-      "address": "0x8965349fb649A33a30cbFDa057D8eC2C48AbE2A2",
-      "symbol": "anyUSDC",
-      "decimals": 18,
-      "chainId": 56,
-      "logoURI": "https://bscscan.com/token/images/usdcgno_32.png"
-    },
-    {
       "name": "Binance-Peg BSC-USD",
       "address": "0x55d398326f99059fF775485246999027B3197955",
       "symbol": "BSC-USD",
       "decimals": 18,
       "chainId": 56,
       "logoURI": "https://bscscan.com/token/images/busdt_32.png"
-    }
+    },
+    {
+      "name": "Binance-Peg USD Coin",
+      "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+      "symbol": "USDC",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://bscscan.com/token/images/centre-usdc_28.png"
+    },
   ]
 }
