@@ -37,6 +37,22 @@
       "logoURI": "https://bscscan.com/token/images/centre-usdc_28.png"
     },
     {
+      "name": "Binance-Peg BTCB",
+      "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
+      "symbol": "BTCB",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://bscscan.com/token/images/btcb_32.png"
+    },
+    {
+      "name": "Binance-Peg Bitcoin Cash",
+      "address": "0x8fF795a6F4D97E7887C79beA79aba5cc76444aDf",
+      "symbol": "BCH",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://bscscan.com/token/images/bitcoincash_32.png"
+    },
+    {
       "name": "TRON",
       "address": "0xCE7de646e7208a4Ef112cb6ed5038FA6cC6b12e3",
       "symbol": "TRX",
