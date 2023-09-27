@@ -43,6 +43,94 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI": "https://bscscan.com/token/images/tronnetwork_32.png"
+    },
+    {
+      "name": "Binance-Peg Ethereum Token",
+      "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
+      "symbol": "ETH",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://bscscan.com/token/images/ethereum_32.png"
+    },
+    {
+      "name": "Decentraland",
+      "address": "0x26433c8127d9b4e9B71Eaa15111DF99Ea2EeB2f8",
+      "symbol": "MANA",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://bscscan.com/token/images/decentraland_32.png"
+    },
+    {
+      "name": "Decentralized USD",
+      "address": "0xd17479997F34dd9156Deef8F95A52D81D265be9c",
+      "symbol": "USDD",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://bscscan.com/token/images/usdd-tron_32.png"
+    },
+    {
+      "name": "Binance-Peg Paxos Standard",
+      "address": "0xb7F8Cd00C5A06c0537E2aBfF0b58033d02e5E094",
+      "symbol": "PAX",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://bscscan.com/token/images/paxos_32.png"
+    },
+    {
+      "name": "Binance-Peg XRP Token",
+      "address": "0x1D2F0da169ceB9fC7B3144628dB156f3F6c60dBE",
+      "symbol": "XRP",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://bscscan.com/token/images/xrp_32.png"
+    },
+    {
+      "name": "Binance-Peg Avalanche Token",
+      "address": "0x1CE0c2827e2eF14D5C4f29a091d735A204794041",
+      "symbol": "AVAX",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://bscscan.com/token/images/avax_32.png"
+    },
+    {
+      "name": "TrueUSD",
+      "address": "0x40af3827F39D0EAcBF4A168f8D4ee67c121D11c9",
+      "symbol": "TUSD",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://bscscan.com/token/images/trueusd_32.png"
+    },
+    {
+      "name": "Binance-Peg ChainLink Token",
+      "address": "0xF8A0BF9cF54Bb92F17374d9e9A321E6a111a51bD",
+      "symbol": "LINK",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://bscscan.com/token/images/chainlink_32.png?v=2"
+    },
+    {
+      "name": "Binance-Peg ChainLink Token",
+      "address": "0xF8A0BF9cF54Bb92F17374d9e9A321E6a111a51bD",
+      "symbol": "LINK",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://bscscan.com/token/images/chainlink_32.png?v=2"
+    },
+    {
+      "name": "Trust Wallet",
+      "address": "0x4B0F1812e5Df2A09796481Ff14017e6005508003",
+      "symbol": "TWT",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://bscscan.com/token/images/trust_32.png?v=1"
+    },
+    {
+      "name": "Binance-Peg Dai Token",
+      "address": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
+      "symbol": "DAI",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://bscscan.com/token/images/dai_32.png"
     }
   ]
 }
