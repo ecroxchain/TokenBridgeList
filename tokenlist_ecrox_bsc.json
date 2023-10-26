@@ -20,6 +20,14 @@
       "decimals": 18,
       "chainId": 988207,
       "logoURI": "https://raw.githubusercontent.com/ecroxchain/TokenBridgeList/main/ecrox_logo.png"
+    },
+    {
+      "name": "Elite Coin",
+      "address": "0x7a64822bc0d058b4f5dc1f4045293505b3d0cb43",
+      "symbol": "ELITE",
+      "decimals": 18,
+      "chainId": 988207,
+      "logoURI": "https://raw.githubusercontent.com/ecroxchain/TokenBridgeList/main/elitecoin.png"
     }
   ]
 }
