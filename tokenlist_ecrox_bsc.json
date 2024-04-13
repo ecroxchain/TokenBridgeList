@@ -20,6 +20,22 @@
       "decimals": 18,
       "chainId": 988207,
       "logoURI": "https://raw.githubusercontent.com/ecroxchain/TokenBridgeList/main/ecrox_logo.png"
+    },
+    {
+      "name": "Binance-Peg USD",
+      "address": "0x45C3dEd9650b98d53ec27DA474D292cdF7B5F738",
+      "symbol": "USDT",
+      "decimals": 18,
+      "chainId": 988207,
+      "logoURI": "https://raw.githubusercontent.com/ecroxchain/assets/main/blockchains/ECROX/assets/0x45C3dEd9650b98d53ec27DA474D292cdF7B5F738/logo.png"
+    },
+    {
+      "name": "Wrapped BNB",
+      "address": "0x196d3f09A293e0ee4aD4e291cC142908aA02303d",
+      "symbol": "BNB",
+      "decimals": 18,
+      "chainId": 988207,
+      "logoURI": "https://raw.githubusercontent.com/ecroxchain/assets/main/blockchains/ECROX/assets/0x196d3f09A293e0ee4aD4e291cC142908aA02303d/logo.png"
     }
   ]
 }
